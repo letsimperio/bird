@@ -1,7 +1,7 @@
 # bird
 
 Bird is some training for Python and Docker.
-I used Ubuntu for all this process.
+I used VirtualBox, Ubuntu for all this process.
 
 ## required installations
 
@@ -27,7 +27,7 @@ To run the application, building a container with the Flask for Dockerfile to re
 
 ## dockerization
 
-Dockerfile is already ready for these codes:
+Dockerfile is available for these codes:
 
   -and the rest.
 
