@@ -28,6 +28,7 @@ To run the application, building a container with the Flask for Dockerfile to re
 ## dockerization
 
 Dockerfile is already ready for these codes:
+  -and the rest.
 
 ```bash
 1. docker build -t application .
