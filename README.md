@@ -1,7 +1,7 @@
 # bird
 
 Bird is some training for Python and Docker.
-I used Python, Flash Framework for all this process in Ubuntu.
+I used Python, Flask Framework for all this process in Ubuntu.
 
 ## required installations
 
